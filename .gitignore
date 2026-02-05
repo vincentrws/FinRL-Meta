@@ -110,6 +110,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+examples/venv-finrl/
 
 # Spyder project settings
 .spyderproject
@@ -145,3 +146,6 @@ price_array.npy
 
 # vscode
 /.vscode
+
+# venv 
+finrl-venv
